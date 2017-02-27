@@ -1,7 +1,7 @@
 # ppl-assignment-UltraLazyCat
 ppl-assignment-UltraLazyCat created by GitHub Classroom
 
-Created on Windows OS using netbeans IDE --------  Manuj Singh RIT2015030
+Created on Windows OS using JAVA Language on netbeans IDE --------  Manuj Singh RIT2015030
 
 (for Running on command prompt with jdk installed prior)
 
